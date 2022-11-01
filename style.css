@@ -112,10 +112,10 @@ section{
     background-image: url("section-c.jpg");
 }
 .section-d{
-    background-image: url("section-d.jpg");
+    background-image: url("img2.jpg");
 }
 .section-e{
-    background-image: url("section-d.jpg");
+    background-image: url("img3.jpg");
 }
 .scroll-arrow{
     position: absolute;
